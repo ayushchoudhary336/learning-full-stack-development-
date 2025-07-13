@@ -1,0 +1,12 @@
+tools for creating api webserver like express
+- HONO
+-elysiajs
+
+
+for orm (oject relational mapping) for relational databases
+ODM(object-document mapping)
+
+- mongoose
+- prisma 
+- drizzle
+
